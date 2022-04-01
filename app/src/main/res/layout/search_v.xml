@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/imageButton11"
+        android:layout_width="128dp"
+        android:layout_height="159dp"
+        tools:layout_editor_absoluteX="216dp"
+        tools:layout_editor_absoluteY="478dp"
+        tools:srcCompat="@tools:sample/backgrounds/scenic[0]" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="128dp"
+        android:layout_height="168dp"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="118dp"
+        tools:srcCompat="@tools:sample/backgrounds/scenic[0]" />
+
+    <ImageButton
+        android:id="@+id/imageButton5"
+        android:layout_width="129dp"
+        android:layout_height="166dp"
+        tools:layout_editor_absoluteX="219dp"
+        tools:layout_editor_absoluteY="120dp"
+        tools:srcCompat="@tools:sample/backgrounds/scenic[0]" />
+
+    <ImageButton
+        android:id="@+id/imageButton8"
+        android:layout_width="128dp"
+        android:layout_height="165dp"
+        tools:layout_editor_absoluteX="64dp"
+        tools:layout_editor_absoluteY="298dp"
+        tools:srcCompat="@tools:sample/backgrounds/scenic[0]" />
+
+    <ImageButton
+        android:id="@+id/imageButton10"
+        android:layout_width="128dp"
+        android:layout_height="159dp"
+        tools:layout_editor_absoluteX="62dp"
+        tools:layout_editor_absoluteY="478dp"
+        tools:srcCompat="@tools:sample/backgrounds/scenic[0]" />
+
+    <ImageButton
+        android:id="@+id/imageButton9"
+        android:layout_width="127dp"
+        android:layout_height="165dp"
+        tools:layout_editor_absoluteX="218dp"
+        tools:layout_editor_absoluteY="298dp"
+        tools:srcCompat="@tools:sample/backgrounds/scenic[0]" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="124dp"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="143dp"
+        tools:layout_editor_absoluteY="52dp" />
+
+    <SearchView
+        android:layout_width="52dp"
+        android:layout_height="67dp"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="31dp">
+
+    </SearchView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
